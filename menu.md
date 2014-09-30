@@ -9,5 +9,5 @@
    * [配置格式](./config/base.md)
    * [配置说明](./config/detail.md)
 * [控制器]
-* [模型]
-* [视图]
+   * [定义控制器](./controller/define.md)
+   * [控制器文件执行流程](./controller/run.md)
